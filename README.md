@@ -35,6 +35,7 @@ MangoNLP Study
 
 >Push 전에는 항상 Pull을 먼저 해주세요.   
 >ex.) /HogilKang/Crawler/crawler.py  
+>주의: pip freeze 는 자신의 디렉터리에 생성 해주세요.
 
 ---
 
