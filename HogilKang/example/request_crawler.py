@@ -2,7 +2,7 @@ import requests
 import time
 
 from bs4 import BeautifulSoup as bs
-from HogilKang.example.base import BaseCrawler
+from .base import BaseCrawler
 
 
 class RequestCrawler(BaseCrawler):
